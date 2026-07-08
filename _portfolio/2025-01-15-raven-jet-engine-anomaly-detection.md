@@ -5,13 +5,6 @@ collection: portfolio
 permalink: /project/raven-jet-engine-anomaly-detection
 date: 2025-01-15
 excerpt: "Unsupervised anomaly detection in multivariate jet engine time series using residual learning and LSTM autoencoders on real test data."
-tags:
-  - PHM
-  - Anomaly Detection
-  - Jet Engines
-  - Residual Learning
-  - LSTM Autoencoder
-  - Predictive Maintenance
 ---
 
 ## Highlights

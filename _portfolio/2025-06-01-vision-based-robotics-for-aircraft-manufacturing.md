@@ -5,11 +5,6 @@ collection: portfolio
 permalink: /project/vision-based-robotics-for-aircraft-manufacturing
 date: 2025-06-01
 excerpt: "Vision-guided robotic manufacturing work at STRATA using Python-based vision solutions for high-precision aircraft manufacturing tasks."
-tags:
-  - Vision-Based Robotics
-  - Aircraft Manufacturing
-  - Industrial Automation
-  - Computer Vision
 ---
 
 ## Highlights

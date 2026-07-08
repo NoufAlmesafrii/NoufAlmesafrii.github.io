@@ -8,13 +8,6 @@ date: 2025-06-08
 venue: "PHM Society Asia-Pacific Conference"
 excerpt: "Fully unsupervised anomaly detection for jet engine monitoring using residual learning to normalize operating conditions and an LSTM autoencoder to flag subtle faults in real test data."
 paperurl: ""
-tags:
-  - PHM
-  - Anomaly Detection
-  - Jet Engines
-  - Residual Learning
-  - LSTM Autoencoder
-  - Real Test Data
 citation: "Nouf Almesafri, Mohamed Ragab, Zahi Mohamed, Abdulla Alseiari, and Salama Almheiri. (2025). &quot;RAVEN: Unsupervised Anomaly Detection in Multivariate Jet Engine Time Series using Residual Learning on Real Test Data.&quot; <i>PHM Society Asia-Pacific Conference</i>."
 ---
 
