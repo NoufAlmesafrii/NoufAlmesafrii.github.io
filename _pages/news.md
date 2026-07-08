@@ -17,7 +17,7 @@ author_profile: true
 ## 2024
 
 - Completed an MSc in Applied Artificial Intelligence at Cranfield University with First-Class honors.
-- Received the Certificate of Outstanding Paper at the 10th IEEE International Smart Cities Conference.
+- Received the Best Paper Award at the 2024 IEEE International Smart Cities Conference (ISC2) for the drone pollution tracking paper.
 
 ## 2021
 

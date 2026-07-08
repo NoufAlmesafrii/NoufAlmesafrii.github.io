@@ -48,6 +48,7 @@ Today, my research interests center on Computer Vision, Vision-Language Models, 
 
 ## Awards
 
+- Best Paper Award, 2024 IEEE International Smart Cities Conference
 - Certificate of Outstanding Paper, 10th IEEE International Smart Cities Conference, 2024
 - Dean’s List, Khalifa University, 2020
 - First Place, Khalifa Programming Contest, 2019

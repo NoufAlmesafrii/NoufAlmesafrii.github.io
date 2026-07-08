@@ -2,9 +2,8 @@
 layout: single
 title: "From Ground to Air: Noise Robustness in Vision Transformers and CNNs for Event-Based Vehicle Classification with Potential UAV Applications"
 collection: publications
-category: manuscripts
 permalink: /publication/from-ground-to-air-noise-robustness
-date: 2025-06-22
+date: 2025-08-12
 venue: "arXiv preprint arXiv:2506.22360"
 excerpt: "Study of Vision Transformers and CNNs under simulated event-camera noise for vehicle classification, with a focus on robustness for UAV perception."
 paperurl: "https://arxiv.org/abs/2506.22360"
