@@ -7,6 +7,7 @@ permalink: /publication/power-system-analysis-solar-hydrogen-fuel-cell-evtol-uav
 date: 2024-10-01
 venue: "ASME International Mechanical Engineering Congress and Exposition"
 excerpt: "Power and energy analysis of an eVTOL UAV concept combining solar power and hydrogen fuel cell propulsion."
+paperurl: "https://doi.org/10.1115/IMECE2024-145240"
 citation: "M. Alhammadi, Nouf Almesafri, S. Zafar, and G. Santos. (2024). &quot;Power System Analysis of Solar and Hydrogen Fuel Cell Powered EVTOL UAV.&quot; <i>ASME International Mechanical Engineering Congress and Exposition</i>, Vol. 88612, V003T05A006."
 ---
 
