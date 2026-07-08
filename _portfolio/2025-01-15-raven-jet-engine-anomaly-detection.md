@@ -1,0 +1,26 @@
+---
+layout: single
+title: "RAVEN – Jet Engine Anomaly Detection"
+collection: portfolio
+permalink: /project/raven-jet-engine-anomaly-detection
+date: 2025-01-15
+excerpt: "Unsupervised anomaly detection in multivariate jet engine time series using residual learning and LSTM autoencoders on real test data."
+tags:
+  - PHM
+  - Anomaly Detection
+  - Jet Engines
+  - Residual Learning
+  - LSTM Autoencoder
+  - Predictive Maintenance
+---
+
+## Highlights
+
+- Real jet engine test data
+- Scarcity of faulty data
+- Operating condition normalization
+- Residual learning
+- LSTM autoencoder
+- PHM and predictive maintenance
+
+RAVEN is designed to detect subtle anomalies in multivariate jet engine telemetry when labeled fault data are scarce.

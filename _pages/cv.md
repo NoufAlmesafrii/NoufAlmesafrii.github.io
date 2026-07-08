@@ -9,56 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+My full CV is available as a PDF download:
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- [Download CV PDF](/files/Nouf_Almesafri_CV.pdf)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Summary
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Senior Associate Researcher at the Technology Innovation Institute (TII), Propulsion and Space Research Center, Abu Dhabi, UAE
+- Research focus: Computer Vision, Multimodal AI, Vision-Language Models, intelligent vision systems, and PHM applications
+- Industrial experience in prognostics, diagnosis, embedded systems, robotics, and UAV-oriented AI
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+- MSc Applied Artificial Intelligence, Cranfield University, UK, 2024, First-Class Degree
+- BSc Aerospace Engineering, Khalifa University, UAE, 2022
+
+## Research interests
+
+- Computer Vision and real-time visual perception
+- Vision-Language Models and Vision-Language-Action systems
+- Multimodal foundation models
+- Image and video generation, reconstruction, and enhancement
+- Physics-informed AI, digital twins, and predictive maintenance
+
+## Selected publications
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Selected talks
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html  %}
+{% endfor %}</ul>
+
+## Awards
+
+- Certificate of Outstanding Paper, 10th IEEE International Smart Cities Conference, 2024
+- Dean’s List, Khalifa University, 2020
+- First Place, Khalifa Programming Contest, 2019
