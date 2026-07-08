@@ -23,7 +23,7 @@ repository               : "NoufAlmesafrii/NoufAlmesafrii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nouf Almesafri"
   pronouns         : # example: "she/her"  
   bio              : "Senior Associate Researcher in the Prognostics Team at TII's Propulsion and Space Research Center."
