@@ -38,7 +38,8 @@ I am a Senior Associate Researcher at the Technology Innovation Institute (TII),
 
 ## Featured projects
 
-{% for post in site.portfolio reversed limit: 3 %}
+{% assign featured_projects = site.portfolio | sort: "date" | reverse %}
+{% for post in featured_projects limit: 3 %}
   {% include archive-single.html %}
 {% endfor %}
 

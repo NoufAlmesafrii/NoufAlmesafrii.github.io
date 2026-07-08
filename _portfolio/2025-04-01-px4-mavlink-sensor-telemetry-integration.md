@@ -3,8 +3,8 @@ layout: single
 title: "PX4 / MAVLink Sensor Telemetry Integration"
 collection: portfolio
 permalink: /project/px4-mavlink-sensor-telemetry-integration
-date: 2025-04-01
-excerpt: "Embedded AI and autonomous systems work involving PX4 firmware, MAVLink streams, QGroundControl, Pixhawk, AS5600 encoder, and INA260 current sensor telemetry."
+date: 2026-07-01
+excerpt: "Embedded AI and autonomous systems work involving PX4 firmware, MAVLink streams, QGroundControl, Pixhawk sensor telemetry."
 ---
 
 ## Highlights

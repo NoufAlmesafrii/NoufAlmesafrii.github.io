@@ -10,7 +10,8 @@ Selected research and applied AI projects in PHM, robotics, UAVs, and computer v
 {% include base_path %}
 
 
-{% for post in site.portfolio reversed %}
+{% assign projects = site.portfolio | sort: "date" | reverse %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
 

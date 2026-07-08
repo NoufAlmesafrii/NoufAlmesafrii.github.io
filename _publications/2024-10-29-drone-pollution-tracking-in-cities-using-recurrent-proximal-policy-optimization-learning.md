@@ -10,6 +10,12 @@ paperurl: "https://dspace.lib.cranfield.ac.uk/bitstreams/400ea6d2-247d-400b-9804
 citation: "Andreas Eliades, Elie Thellier, Haitao Tian, Shivam Mehta, Nouf Almesafri, Hongqian Chen, Zhuangkun Wei, Adolfo Perrusquía, Cunjia Liu, and Weisi Guo. (2024). &quot;Drone Pollution Tracking in Cities Using Recurrent Proximal Policy Optimization Learning.&quot; <i>2024 IEEE International Smart Cities Conference (ISC2)</i>."
 ---
 
-This paper presents a simulated urban pollution propagation environment in which a drone scans the city to search for and localize intermittent illegal gas emissions.
+This work presents a reinforcement learning approach for tracking intermittent pollution sources in complex urban environments. A simulated city-scale pollution propagation environment was developed to train a drone agent to search for and localize gas emission sources under varying wind conditions, building obstacles, and burst-emission scenarios.
 
-The work compares proximal policy optimization and recurrent PPO for stable policy improvement in a dynamic, obstacle-rich sensing setting. It was recognized with the Best Paper Award at ISC2 2024.
+## Key Contribution
+- Developed a simulated urban pollution environment with wind-field variation, building obstacles, and intermittent gas emissions.
+- Designed a drone-based source localization approach using Proximal Policy Optimization (PPO) and Recurrent PPO (R-PPO).
+- Addressed the limitations of traditional gradient-based and swarm-optimization methods in dynamic pollution environments.
+- Achieved 76–79% localization success and 95–96% path efficiency under ideal conditions.
+- Demonstrated partial generalization to more challenging city structures and burst-emission cases, achieving 34% success rate and 52% path efficiency.
+- Showed the potential of reinforcement learning for autonomous environmental monitoring in future smart cities.

@@ -10,6 +10,11 @@ paperurl: "https://doi.org/10.36001/phmap.2025.v5i1.4647"
 citation: "Nouf Almesafri, Mohamed Ragab, Zahi Mohamed, Abdulla Alseiari, and Salama Almheiri. (2025). &quot;RAVEN: Unsupervised Anomaly Detection in Multivariate Jet Engine Time Series using Residual Learning on Real Test Data.&quot; <i>PHM Society Asia-Pacific Conference</i>."
 ---
 
-RAVEN is a fully unsupervised anomaly detection framework for jet engine monitoring built on real test data. The method combines regression-based residual learning to normalize sensor responses under changing operating regimes with a deep LSTM autoencoder to detect subtle anomalies.
+This work introduces RAVEN, a fully unsupervised anomaly detection framework for jet engine health monitoring using real test data. By combining regression-based residual learning with a deep LSTM autoencoder, RAVEN effectively separates operational variability from fault signatures, enabling early detection of incipient engine anomalies without requiring labeled fault data.
 
-The work is motivated by the scarcity of fault labels in real industrial settings and the variability of engine operating conditions. It is designed to support reliable prognostics and health management in practical jet engine applications.
+## Key Contribution
+- Developed RAVEN, a novel unsupervised anomaly detection framework for jet engine health monitoring under real operating conditions.
+- Combined regression-based residual learning with a deep LSTM autoencoder to normalize sensor behavior across varying operating regimes while detecting subtle temporal anomalies.
+- Addressed key industrial challenges, including label scarcity, sensor noise, and operational variability, which often limit the applicability of conventional anomaly detection methods.
+- Validated the framework using real jet engine test data, demonstrating reliable anomaly detection across diverse operating conditions without relying on simulated datasets or fault labels.
+- Proposed a scalable and practical solution for early fault detection in propulsion systems, supporting predictive maintenance and improving aircraft safety and reliability.

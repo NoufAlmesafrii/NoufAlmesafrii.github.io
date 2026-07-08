@@ -3,7 +3,7 @@ layout: single
 title: "Smart Fleet Health Monitoring"
 collection: portfolio
 permalink: /project/smart-fleet-health-monitoring
-date: 2025-05-01
+date: 2026-06-01
 excerpt: "Industrial AI work related to fleet monitoring, predictive maintenance, GenAI-assisted maintenance, decision support, and health analytics."
 ---
 

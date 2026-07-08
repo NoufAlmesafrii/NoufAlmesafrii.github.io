@@ -3,7 +3,7 @@ layout: single
 title: "RAVEN – Jet Engine Anomaly Detection"
 collection: portfolio
 permalink: /project/raven-jet-engine-anomaly-detection
-date: 2025-01-15
+date: 2025-12-09
 excerpt: "Unsupervised anomaly detection in multivariate jet engine time series using residual learning and LSTM autoencoders on real test data."
 ---
 
